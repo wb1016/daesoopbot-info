@@ -1,12 +1,12 @@
-# bamboozleify-bot Terms of Use
+# Daesoop Bot Terms of Use
 
 **Effective date: 2026-09-24**
 
-These terms govern the use of "bamboozleify-bot" (Korean name: 대숲봇, the "Bot"), an anonymous message relay bot provided within the Discord service. By using the Bot (including running its slash commands or clicking its buttons), you agree to these terms.
+These terms govern the use of "Daesoop Bot" (Korean name: 대숲봇, the "Bot"), an anonymous message relay bot provided within the Discord service. By using the Bot (including running its slash commands or clicking its buttons), you agree to these terms.
 
 ## 1. Definitions
 
-1. "Bot" means the software "bamboozleify-bot" that relays anonymous messages on the Discord platform.
+1. "Bot" means the software "Daesoop Bot" that relays anonymous messages on the Discord platform.
 2. "User" means the owner of a Discord account who uses the Bot's features in a Discord server (guild) where the Bot is installed.
 3. "Server Moderator" means a member with administrative permissions in the Discord server, or a member assigned the Bot's moderation role.
 4. "Anonymous Message" means text and attachments (photos, video, audio) submitted by a User via the `/bamboo` command and posted by the Bot on the User's behalf.
@@ -62,11 +62,11 @@ These terms are governed by the laws of the Republic of Korea, and disputes rela
 
 ## 10. Open Source
 
-The Bot's source code is available under the GNU General Public License v3.0 (GPL-3.0) at [GitHub](https://github.com/wb1016/bamboozleify-bot). The license of the source code is governed by GPL-3.0, separately from these terms.
+The Bot's source code is available under the GNU General Public License v3.0 (GPL-3.0) at [GitHub](https://github.com/wb1016/Daesoop Bot). The license of the source code is governed by GPL-3.0, separately from these terms.
 
 ## 11. Changes to These Terms
 
-The operator may revise these terms when necessary; revised terms take effect immediately upon posting to this document. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/legal/terms.en.md).
+The operator may revise these terms when necessary; revised terms take effect immediately upon posting to this document. You can track material changes through [GitHub commit history](https://github.com/wb1016/daesoopbot-info/commits/main/pages/legal/terms.en.md).
 
 ## 12. Contact
 

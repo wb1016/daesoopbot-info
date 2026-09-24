@@ -1,8 +1,8 @@
-# bamboozleify-bot Privacy Policy
+# Daesoop Bot Privacy Policy
 
 **Effective date: 2026-09-24**
 
-bamboozleify-bot (Korean name: 대숲봇, the "Bot") is an anonymous message relay service within Discord. This document describes what account data the Bot processes, for what purpose, how long it is kept, and your rights.
+Daesoop Bot (Korean name: 대숲봇, the "Bot") is an anonymous message relay service within Discord. This document describes what account data the Bot processes, for what purpose, how long it is kept, and your rights.
 
 ## 1. Data We Collect
 
@@ -64,7 +64,7 @@ Under Korean law, the Bot cannot obtain consent to collect or process personal d
 
 ## 8. Changes to This Policy
 
-Changes to this policy take effect immediately when the revised document is published. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/legal/privacy.en.md).
+Changes to this policy take effect immediately when the revised document is published. You can track material changes through [GitHub commit history](https://github.com/wb1016/daesoopbot-info/commits/main/pages/legal/privacy.en.md).
 
 ## 9. Contact
 

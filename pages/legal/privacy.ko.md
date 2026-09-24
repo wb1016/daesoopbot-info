@@ -64,7 +64,7 @@
 
 ## 제8조 처리방침의 변경
 
-본 처리방침이 변경되는 경우 변경된 문서가 게시되는 즉시 효력이 발생합니다. 중대한 변경 사항은 [봇 공지 채널](https://github.com/wb1016/daesoopbot-info/blob/main/legal/privacy.ko.md) 등 합리적인 방법으로 고지합니다.
+본 처리방침이 변경되는 경우 변경된 문서가 게시되는 즉시 효력이 발생합니다. 중대한 변경 사항은 [GitHub 커밋 역사](https://github.com/wb1016/daesoopbot-info/commits/main/pages/legal/privacy.ko.md)에서 기록을 볼 수 있습니다.
 
 ## 제9조 문의
 
