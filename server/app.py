@@ -132,31 +132,31 @@ def _serve(page: str, lang: str) -> HTMLResponse:
     )
 
 
-@app.get("/", response_class=HTMLResponse)
+@app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def home(request: Request) -> HTMLResponse:
     return _serve("home", _negotiate_lang(request.headers.get("accept-language", "")))
 
 
-@app.get("/terms", response_class=HTMLResponse)
+@app.api_route("/terms", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def terms(request: Request) -> HTMLResponse:
     return _serve("terms", _negotiate_lang(request.headers.get("accept-language", "")))
 
 
-@app.get("/terms/{lang}", response_class=HTMLResponse)
+@app.api_route("/terms/{lang}", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def terms_lang(lang: str) -> HTMLResponse:
     return _serve("terms", lang)
 
 
-@app.get("/privacy", response_class=HTMLResponse)
+@app.api_route("/privacy", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def privacy(request: Request) -> HTMLResponse:
     return _serve("privacy", _negotiate_lang(request.headers.get("accept-language", "")))
 
 
-@app.get("/privacy/{lang}", response_class=HTMLResponse)
+@app.api_route("/privacy/{lang}", methods=["GET", "HEAD"], response_class=HTMLResponse)
 def privacy_lang(lang: str) -> HTMLResponse:
     return _serve("privacy", lang)
 
 
-@app.get("/health")
+@app.api_route("/health", methods=["GET", "HEAD"])
 def health() -> PlainTextResponse:
     return PlainTextResponse("ok")
