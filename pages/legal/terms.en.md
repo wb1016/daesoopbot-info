@@ -66,7 +66,7 @@ The Bot's source code is available under the GNU General Public License v3.0 (GP
 
 ## 11. Changes to These Terms
 
-The operator may revise these terms when necessary; revised terms take effect immediately upon posting to this document. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/leagal/terms.en.md).
+The operator may revise these terms when necessary; revised terms take effect immediately upon posting to this document. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/legal/terms.en.md).
 
 ## 12. Contact
 

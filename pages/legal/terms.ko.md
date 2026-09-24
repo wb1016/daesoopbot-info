@@ -66,7 +66,7 @@
 
 ## 제11조 약관의 변경
 
-운영자는 필요한 경우 본 약관을 변경할 수 있으며, 변경된 약관은 본 문서에 게시하는 즉시 효력이 발생합니다. 중대한 변경의 경우 [봇 공지 채널](https://github.com/wb1016/daesoopbot-info/blob/main/leagal/terms.ko.md) 등 합리적인 방법으로 고지합니다.
+운영자는 필요한 경우 본 약관을 변경할 수 있으며, 변경된 약관은 본 문서에 게시하는 즉시 효력이 발생합니다. 중대한 변경의 경우 [봇 공지 채널](https://github.com/wb1016/daesoopbot-info/blob/main/legal/terms.ko.md) 등 합리적인 방법으로 고지합니다.
 
 ## 제12조 연락처
 

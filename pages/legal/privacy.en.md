@@ -64,7 +64,7 @@ Under Korean law, the Bot cannot obtain consent to collect or process personal d
 
 ## 8. Changes to This Policy
 
-Changes to this policy take effect immediately when the revised document is published. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/leagal/privacy.en.md).
+Changes to this policy take effect immediately when the revised document is published. Material changes will be announced through reasonable means, such as the [Bot's announcement channel](https://github.com/wb1016/daesoopbot-info/blob/main/legal/privacy.en.md).
 
 ## 9. Contact
 
