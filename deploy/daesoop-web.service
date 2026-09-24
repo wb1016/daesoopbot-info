@@ -1,0 +1,21 @@
+[Unit]
+Description=daesoop.sudden.ninja - daesoopbot info pages web server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=daesoop
+Group=daesoop
+WorkingDirectory=/opt/daesoop/daesoopbot-info
+Environment=DAESOOP_DOCS_DIR=pages
+Environment=DAESOOP_SITE_NAME=대숲봇
+ExecStart=/opt/daesoop/daesoopbot-info/.venv/bin/uvicorn server.app:app --host 127.0.0.1 --port 8000
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+ProtectSystem=full
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
